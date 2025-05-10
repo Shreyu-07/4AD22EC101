@@ -7,3 +7,4 @@
 2) Average Calculator HTTP Microservice
    
 ![opp](https://github.com/user-attachments/assets/ac992122-7088-455f-aaab-e6567a67c984)
+![oo](https://github.com/user-attachments/assets/9b9482d1-fb06-4f32-8632-3d44987a7f02)
